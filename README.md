@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to PWA Tuzla Data Site
 
-You can use the [editor on GitHub](https://github.com/PWATuzla/pwatuzla.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! This is a PWA Tuzla Data Site where you can find different results from our Partial Wave Analysis.
 
 ### Markdown
 
